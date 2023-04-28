@@ -1,0 +1,14 @@
+Title: Application crashes when clicking on the "Submit" button
+Description:
+When trying to submit a form on the application, the application crashes and closes. This happens consistently, regardless of the content of the form.
+Steps to reproduce:
+Open the application.
+Navigate to the "Forms" section.
+Fill out any form.
+Click on the "Submit" button.
+Expected result:
+The form should be submitted successfully and a confirmation message should be displayed.
+Actual result:
+The application crashes and closes.
+Attachments:
+log.txt
